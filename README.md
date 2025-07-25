@@ -2,10 +2,10 @@
 
 Мобильное приложения для iOS и Android "Тетрис" на Flutter<br>
 
-![Изображение](/assets/images/tetris.png)
+![Изображение](/assets/images/tetris.png)<br>
 ![Изображение](/assets/images/1.png)
 ![Изображение](/assets/images/2.png)
-![Изображение](/assets/images/3.png)
+![Изображение](/assets/images/3.png)<br>
 ![Изображение](/assets/images/4.png)
 ![Изображение](/assets/images/5.png)
 
